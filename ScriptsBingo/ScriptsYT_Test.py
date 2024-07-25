@@ -55,3 +55,5 @@ transcripts = get_transcripts(video_ids)
 
 # Imprime as transcrições
 print_transcripts(transcripts)
+
+## Não deu erro mas não printou as trascrições
