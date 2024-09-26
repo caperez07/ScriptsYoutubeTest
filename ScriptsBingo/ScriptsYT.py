@@ -41,7 +41,7 @@ def save_transcripts_as_srt(transcripts):
         print(f"Transcript for video ID {video_id} saved as {video_id}.srt")
 
 # Insira a URL do canal do YouTube
-channel_url = 'https://www.youtube.com/alura/videos'
+channel_url = 'https://www.youtube.com/@VanityFair/videos'
 
 # Obtém todos os vídeos do canal
 video_ids = get_channel_videos(channel_url)
@@ -52,9 +52,3 @@ transcripts = get_transcripts(video_ids)
 
 # Salva as transcrições em arquivos SRT
 save_transcripts_as_srt(transcripts)
-
-
-### FUNCIONOU!! 
-
-## Obs:
-## Do Vareity baixou só 3 arquivos srt (tem mais de 5000 videos disponiveis no yt)

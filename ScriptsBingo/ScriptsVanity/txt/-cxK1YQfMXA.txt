@@ -1,0 +1,904 @@
+00:00:00,310 --> 00:00:01,[Music]
+00:00:01,120 --> 00:00:02,moving
+00:00:02,199 --> 00:00:03,anding and a
+00:00:03,790 --> 00:00:11,[Music]
+00:00:11,440 --> 00:00:14,splashing thank you for coming everyone
+00:00:14,599 --> 00:00:16,uh let me just introduce everyone uh
+00:00:16,039 --> 00:00:19,Stuart Butterfield co-founder of flicker
+00:00:19,039 --> 00:00:20,back in the first bubble was that a
+00:00:20,600 --> 00:00:22,first bubble a little bit post the first
+00:00:22,519 --> 00:00:24,bubble a little bit he's um he uh sold
+00:00:24,560 --> 00:00:26,the company to Yahoo for less than his
+00:00:26,480 --> 00:00:27,last round of funding for his current
+00:00:27,840 --> 00:00:30,unic which is slack right
+00:00:30,640 --> 00:00:33,um uh Julie uh Wayne right over here who
+00:00:33,200 --> 00:00:35,is the uh CEO of the real real which is
+00:00:35,879 --> 00:00:38,a online fashion Consignment firm and
+00:00:38,120 --> 00:00:40,she was also the CEO of pets.com back in
+00:00:40,200 --> 00:00:43,the bubble and Bill Gurley who I think
+00:00:43,039 --> 00:00:45,is the tallest VC in the world is that
+00:00:45,200 --> 00:00:48,right John H an inch taller an inch so
+00:00:48,199 --> 00:00:50,the tallest in in the tallest on stage
+00:00:50,320 --> 00:00:54,here um who uh is a partner at uh a
+00:00:54,199 --> 00:00:56,benchmark so let me just take a show of
+00:00:56,520 --> 00:00:58,hands bubble or no
+00:00:58,160 --> 00:01:01,bubble wait what which bubble up or no
+00:01:01,359 --> 00:01:03,is there a bubble is there a bubble is
+00:01:03,960 --> 00:01:05,there a bubble there's a bubble there's
+00:01:05,560 --> 00:01:07,so no bubble yeah no it said on my PR
+00:01:07,920 --> 00:01:09,briefing you are being set up to be the
+00:01:09,520 --> 00:01:13,poster boy of bubble so we want to be
+00:01:13,240 --> 00:01:14,entertaining right all right so let's
+00:01:14,880 --> 00:01:15,just take a show of hands in the
+00:01:15,920 --> 00:01:18,audience bubble put your hands
+00:01:18,400 --> 00:01:21,up what would you say that's about 
+00:01:21,840 --> 00:01:23,all right we'll do that again at the end
+00:01:23,240 --> 00:01:26,and see see how people have changed um
+00:01:26,759 --> 00:01:30,so Bill let's let's start with you um uh
+00:01:30,520 --> 00:01:32,one of the things um when I've talked
+00:01:32,280 --> 00:01:33,about Bubbles and columns and stories
+00:01:33,840 --> 00:01:36,and so on is um VCS usually come after
+00:01:36,920 --> 00:01:38,me and call me really nasty names and it
+00:01:38,759 --> 00:01:41,hurts my feelings a lot yeah um but
+00:01:41,119 --> 00:01:42,you're one of the few VCS that's out
+00:01:42,799 --> 00:01:44,there that's saying there is a bubble
+00:01:44,880 --> 00:01:46,What Makes You Different well I I look
+00:01:46,960 --> 00:01:50,at it this way I if I'm not out you know
+00:01:50,320 --> 00:01:52,this isn't shot and Freud I'm not
+00:01:52,040 --> 00:01:54,looking to predict death or anything
+00:01:54,240 --> 00:01:57,like that um if I see what I view as
+00:01:57,799 --> 00:01:59,unsustainable unreasonable behavior
+00:01:59,840 --> 00:02:01,Behavior that's going to lead to failure
+00:02:01,960 --> 00:02:03,because of what I've seen in the past
+00:02:03,560 --> 00:02:04,then I feel it's kind of my
+00:02:04,759 --> 00:02:07,responsibility to call it out if you in
+00:02:07,039 --> 00:02:09,a car heading over a cliff and I say hey
+00:02:09,759 --> 00:02:12,slow down or turn left that's being prag
+00:02:12,720 --> 00:02:14,you know it's being a pragmatist not
+00:02:14,200 --> 00:02:16,being a doomsayer and that's kind of
+00:02:16,480 --> 00:02:18,what is behind my motivation I fully
+00:02:18,760 --> 00:02:21,recognize let's say we're all at a bar
+00:02:21,080 --> 00:02:22,and I'm the guy that's turning on the
+00:02:22,680 --> 00:02:24,lights and saying hey it's last call you
+00:02:24,720 --> 00:02:25,should go home you might need steart
+00:02:25,959 --> 00:02:27,it's time to go home you you you might
+00:02:27,440 --> 00:02:29,need to get up early and work out that's
+00:02:29,319 --> 00:02:30,not near near as much fun as the guy
+00:02:30,920 --> 00:02:32,that bust through the door with a tray
+00:02:32,160 --> 00:02:34,of jello shots that say let's keep party
+00:02:34,920 --> 00:02:37,right and that that second one's a lot
+00:02:37,519 --> 00:02:40,easier to do but it actually leads to a
+00:02:40,920 --> 00:02:42,kind of reinforcement of the bad
+00:02:42,560 --> 00:02:44,behavior that takes you higher and
+00:02:44,120 --> 00:02:46,higher and then the Falls bigger but one
+00:02:46,000 --> 00:02:47,of the things is you're you're talking
+00:02:47,000 --> 00:02:48,about Bubbles and yet you're investing
+00:02:48,280 --> 00:02:50,in unicorns that are grossly overvalued
+00:02:50,760 --> 00:02:53,that some people may say but do you is
+00:02:53,280 --> 00:02:55,aren't you getting it both ways look you
+00:02:55,360 --> 00:02:58,know another one of my firm beliefs is
+00:02:58,560 --> 00:03:02,that when when capital is remarkably
+00:03:02,040 --> 00:03:04,accessible it's a relative negative for
+00:03:04,640 --> 00:03:07,the best entrepreneurs most of the great
+00:03:07,040 --> 00:03:10,CEOs that I work with want this to stop
+00:03:10,040 --> 00:03:11,because they're forced to play the game
+00:03:11,840 --> 00:03:14,on the field they have to react to
+00:03:14,319 --> 00:03:15,what's going on in the market whether
+00:03:15,879 --> 00:03:18,it's hiring or whether a competitor
+00:03:18,080 --> 00:03:19,might have you know tripled the size of
+00:03:19,840 --> 00:03:22,their Salesforce you have to play and
+00:03:22,640 --> 00:03:24,great entrepreneurs raise money in any
+00:03:24,959 --> 00:03:26,cycle right they can raise money in any
+00:03:26,879 --> 00:03:28,cycle so when there's less money
+00:03:28,840 --> 00:03:31,available the better entrepreneurs are
+00:03:31,159 --> 00:03:34,advantaged got it so can I ask to know
+00:03:34,799 --> 00:03:36,when you say bad practices what bad
+00:03:36,959 --> 00:03:39,practices are you've seen well look some
+00:03:39,120 --> 00:03:42,of it's being called out like um chamath
+00:03:42,239 --> 00:03:45,potia talked about you know kind bars
+00:03:45,040 --> 00:03:47,and Expos brick walls like he said if
+00:03:47,400 --> 00:03:50,you if you go bankrupt because you were
+00:03:50,120 --> 00:03:51,you tried and it didn't work that's
+00:03:51,599 --> 00:03:53,admirable but if you do it because you
+00:03:53,040 --> 00:03:55,need those things you're an idiot you
+00:03:55,159 --> 00:03:58,know and and there's just practices like
+00:03:58,439 --> 00:04:00,that the the there was an article about
+00:04:00,480 --> 00:04:03,the um the new CEO at Evernote and you
+00:04:03,280 --> 00:04:05,know they had home cleaning services for
+00:04:05,400 --> 00:04:07,every employee like that yeah I was just
+00:04:07,879 --> 00:04:09,talk Julie and I were just talking a lot
+00:04:09,599 --> 00:04:11,of a lot of startup CEOs are taking
+00:04:11,360 --> 00:04:12,private jets because I guess that's what
+00:04:12,680 --> 00:04:14,you do now on you're you know I know of
+00:04:14,760 --> 00:04:16,a I know of a very well regarded startup
+00:04:16,639 --> 00:04:18,which I'm not going to name that's
+00:04:18,680 --> 00:04:20,offering double comp to their
+00:04:20,120 --> 00:04:22,salespeople in the first year to get
+00:04:22,440 --> 00:04:25,people away from other companies Uber no
+00:04:25,120 --> 00:04:27,no I'm not going to but it's those kind
+00:04:27,320 --> 00:04:29,of things and they get we get we get
+00:04:29,720 --> 00:04:32,risk seeking slowly we get risk ofers
+00:04:32,120 --> 00:04:34,quickly and so it's a boiled frog kind
+00:04:34,400 --> 00:04:37,of phenomena so Julie um I'm just going
+00:04:37,759 --> 00:04:39,to get this one out of the way you've
+00:04:39,360 --> 00:04:40,probably been asked this question 
+00:04:40,759 --> 00:04:43,times what made pets.com the poster
+00:04:43,120 --> 00:04:45,child of the last bubble well I have two
+00:04:45,720 --> 00:04:49,answers to that one is built an
+00:04:49,240 --> 00:04:52,incredible brand so even maybe you know
+00:04:52,520 --> 00:04:54,I don't know how old you are but I bet
+00:04:54,039 --> 00:04:56,I'm a lot older and I bet when the
+00:04:56,280 --> 00:04:58,bubble was the first bubble was around
+00:04:58,240 --> 00:05:00,you might have been in Middle School
+00:05:00,280 --> 00:05:03,if that's yeah probably close closest
+00:05:03,120 --> 00:05:05,close-ish anyway high school high school
+00:05:05,919 --> 00:05:08,at least um but the you know the puppet
+00:05:08,240 --> 00:05:10,really I was actually College because I
+00:05:10,120 --> 00:05:12,I worked in the in the first bubble I
+00:05:12,160 --> 00:05:15,made banner ads for about.com and so I
+00:05:15,840 --> 00:05:16,and then I went and traveled around
+00:05:16,800 --> 00:05:19,Europe with my winnings so so I mean the
+00:05:19,240 --> 00:05:22,puppet that's great it was good they
+00:05:22,000 --> 00:05:23,were really cool little ad but the
+00:05:23,120 --> 00:05:25,puppet was an iconic brand and people
+00:05:25,319 --> 00:05:27,remember the puppet all right so there's
+00:05:27,600 --> 00:05:31,absolutely no doubt about that also um I
+00:05:31,080 --> 00:05:32,was one of the first ones I shut the
+00:05:32,960 --> 00:05:34,company down and returned money to
+00:05:34,919 --> 00:05:36,shareholders I didn't run it to
+00:05:36,600 --> 00:05:38,bankruptcy yeah and we were so one of
+00:05:38,880 --> 00:05:40,those companies that took a lot of cash
+00:05:40,840 --> 00:05:43,went public quickly I knew I couldn't
+00:05:43,199 --> 00:05:44,get the secondary done so I shut the
+00:05:44,960 --> 00:05:47,company down and we were we had a lot of
+00:05:47,160 --> 00:05:49,press going up we had a lot more press
+00:05:49,080 --> 00:05:51,going down yeah so I think you know that
+00:05:51,680 --> 00:05:53,and the fact that everyone said you
+00:05:53,639 --> 00:05:55,can't make money shipping pet food but
+00:05:55,720 --> 00:05:58,you fast forward 15 years and everyone's
+00:05:58,240 --> 00:05:59,making money shipping things much
+00:05:59,919 --> 00:06:02,heavier than pet food so true but really
+00:06:02,080 --> 00:06:03,when you just look at it it was a high
+00:06:03,919 --> 00:06:07,it was also uh we were in a cluster of
+00:06:07,039 --> 00:06:08,investment which you're seeing still
+00:06:08,840 --> 00:06:10,today which is why I say there's all
+00:06:10,440 --> 00:06:12,kinds of signs of a bubble when you I
+00:06:12,639 --> 00:06:15,think we were the first of eight pet
+00:06:15,639 --> 00:06:18,companies funded
+00:06:18,840 --> 00:06:21,simultanously it it in any case when you
+00:06:21,400 --> 00:06:23,start seeing a lot of money chasing the
+00:06:23,880 --> 00:06:26,same sector you're it the business is so
+00:06:26,880 --> 00:06:28,splintered and it was so early I mean
+00:06:28,960 --> 00:06:30,there weren't there were 200,000 we
+00:06:30,840 --> 00:06:32,could say that about a lot of things
+00:06:32,240 --> 00:06:34,that are going on today but we'll get at
+00:06:34,720 --> 00:06:37,that time there were 200,000 people that
+00:06:37,720 --> 00:06:39,in the inter on the internet you know
+00:06:39,759 --> 00:06:41,basically that you could reach on a
+00:06:41,280 --> 00:06:43,regular basis and now we're in the
+00:06:43,240 --> 00:06:45,billions I think worldwide there were
+00:06:45,160 --> 00:06:47,only 200 million on the internet they
+00:06:47,360 --> 00:06:48,were saying so you know it was a
+00:06:48,599 --> 00:06:51,different time but um it absolutely was
+00:06:51,919 --> 00:06:54,a cluster for funding someone has a good
+00:06:54,639 --> 00:06:56,idea and things you know get a lot of
+00:06:56,840 --> 00:06:58,money floating around then too and
+00:06:58,319 --> 00:06:59,everyone's like well then we we'll do it
+00:06:59,840 --> 00:07:02,we'll do it we'll do it yeah and you no
+00:07:02,400 --> 00:07:04,one can compete in that scenario so all
+00:07:04,879 --> 00:07:06,three of you were were around in the
+00:07:06,840 --> 00:07:08,first bubble um it's funny actually I
+00:07:08,800 --> 00:07:10,say the first bubble I I said it
+00:07:10,199 --> 00:07:11,recently at a dinner party and someone
+00:07:11,639 --> 00:07:13,said wait this we don't know if this as
+00:07:13,160 --> 00:07:14,a second bubble that would be like
+00:07:14,199 --> 00:07:15,introducing your wife and saying this is
+00:07:15,720 --> 00:07:17,my first wife and you haven't even
+00:07:17,039 --> 00:07:21,gotten divorced yet um uh odar it's a
+00:07:21,199 --> 00:07:23,first bubble so you were all around in
+00:07:23,160 --> 00:07:26,the that that bubble in '99 um tell us a
+00:07:26,599 --> 00:07:28,crazy story of you know steuart you
+00:07:28,680 --> 00:07:30,start with with something that happened
+00:07:30,120 --> 00:07:31,that was that made you think this is
+00:07:31,759 --> 00:07:33,insane like maybe it was the time that
+00:07:33,680 --> 00:07:35,you and Bill took his pink Ferrari to
+00:07:35,960 --> 00:07:37,Vegas and threw a million dollar party
+00:07:37,879 --> 00:07:39,for a startup or something like that do
+00:07:39,639 --> 00:07:42,you do you have I wasn't in in quite as
+00:07:42,120 --> 00:07:45,dramatic uh position but I do remember I
+00:07:45,039 --> 00:07:46,I hated my job what were you doing
+00:07:46,720 --> 00:07:48,February 2000 I was the head of a Design
+00:07:48,319 --> 00:07:49,Group at a company called communicate.
+00:07:49,879 --> 00:07:51,comom that owned a whole bunch of domain
+00:07:51,479 --> 00:07:53,names so this is actually this is a good
+00:07:53,440 --> 00:07:56,example of the crazy they the founder of
+00:07:56,000 --> 00:07:58,the company registered electronic. comom
+00:07:58,479 --> 00:08:00,and dance.com and keyboard.com but also
+00:08:00,759 --> 00:08:03,makeup.com and perfume.com and in the
+00:08:03,560 --> 00:08:05,thinking of the time and this seemed
+00:08:05,680 --> 00:08:08,natural we own makeup.com revlon's a
+00:08:08,400 --> 00:08:11,nice company but makeup.com is a much
+00:08:11,680 --> 00:08:12,better brand and that would be true
+00:08:12,960 --> 00:08:14,forever so the fact that they you know
+00:08:14,599 --> 00:08:15,billion dollar company didn't make any
+00:08:15,879 --> 00:08:17,difference but I hated working there and
+00:08:17,680 --> 00:08:21,I quit in uh February 2000 so near the
+00:08:21,599 --> 00:08:23,end of the month so make two two weeks
+00:08:23,479 --> 00:08:25,two and a half weeks before the crash
+00:08:25,080 --> 00:08:26,and I thought that I was walking away
+00:08:26,360 --> 00:08:28,from $10 million and I got a check for
+00:08:28,120 --> 00:08:30,35,000 to get bought out oh really
+00:08:30,639 --> 00:08:32,35,000 more than anyone else made who
+00:08:32,519 --> 00:08:33,stuck
+00:08:33,919 --> 00:08:37,around and you oh I've got two stories
+00:08:37,719 --> 00:08:40,one is um I walked out of a board
+00:08:40,000 --> 00:08:43,meeting once and my board members were
+00:08:43,839 --> 00:08:45,beating me up because I wasn't spending
+00:08:45,880 --> 00:08:48,money fast enough and I had a more
+00:08:48,560 --> 00:08:50,cautious measured approach so that was
+00:08:50,920 --> 00:08:53,one of those things I'm like whoa but
+00:08:53,000 --> 00:08:55,the my favorite one is there was A Rush
+00:08:55,800 --> 00:08:58,of people to join tech companies then a
+00:08:58,839 --> 00:09:01,lot of people were right out of college
+00:09:01,240 --> 00:09:03,and a prominent Professor from a
+00:09:03,720 --> 00:09:07,prominent school back East called me and
+00:09:07,320 --> 00:09:10,yelled at me because I didn't hire his
+00:09:10,399 --> 00:09:13,student who he said was a rock star and
+00:09:13,560 --> 00:09:15,this person had two years of work
+00:09:15,440 --> 00:09:17,experience prior to going to graduate
+00:09:17,399 --> 00:09:19,school and she wanted
+00:09:19,720 --> 00:09:23,$225,000 a year all right and literally
+00:09:23,600 --> 00:09:26,the and I'm like what and and there is
+00:09:26,560 --> 00:09:27,there is there was a sense of
+00:09:27,959 --> 00:09:29,entitlement of people coming into the
+00:09:29,839 --> 00:09:32,workforce I would say absolutely we're
+00:09:32,560 --> 00:09:35,there again we are absolutely there and
+00:09:35,279 --> 00:09:37,part of its Millennium you know the
+00:09:37,040 --> 00:09:38,Millennials but part of it's the fact
+00:09:38,880 --> 00:09:40,that other companies give them things
+00:09:40,959 --> 00:09:42,the thing that always rubbed me the the
+00:09:42,720 --> 00:09:45,wrong way were fundraising parties like
+00:09:45,079 --> 00:09:47,the fundraising parties and wa
+00:09:47,279 --> 00:09:48,fundraising parties what yeah like you
+00:09:48,959 --> 00:09:51,you just closed around so you throw a
+00:09:51,079 --> 00:09:53,party celebrate the accomplishment and
+00:09:53,720 --> 00:09:55,that happened a lot back then I've seen
+00:09:55,839 --> 00:09:59,a few of those recently here it's uh did
+00:09:59,399 --> 00:10:00,you guys have it slack did slack have a
+00:10:00,760 --> 00:10:03,fundraising party so valuations people
+00:10:03,760 --> 00:10:05,people lose sight of this but valuations
+00:10:05,560 --> 00:10:07,represent discounted future expectations
+00:10:07,760 --> 00:10:09,they're not an award for what you've
+00:10:09,240 --> 00:10:12,done in the past got it and so if what
+00:10:12,600 --> 00:10:14,what people really should be doing when
+00:10:14,480 --> 00:10:17,they raise a high round is like oh
+00:10:17,320 --> 00:10:20,we've got we got huge expectations in
+00:10:20,040 --> 00:10:22,front of us we got to deliver against oh
+00:10:22,480 --> 00:10:24,my God we better get to work yeah
+00:10:24,160 --> 00:10:25,instead of throwing a party so okay
+00:10:25,839 --> 00:10:27,let's just agree that there's a bubble
+00:10:27,600 --> 00:10:30,what's different now than than than the
+00:10:30,320 --> 00:10:31,last time Stuart I'm going to let you
+00:10:31,600 --> 00:10:32,start because you don't think there is
+00:10:32,800 --> 00:10:34,one so what's different well yeah so I
+00:10:34,640 --> 00:10:36,this might be just a terminological
+00:10:36,000 --> 00:10:39,debate because um since 2008 we've been
+00:10:39,560 --> 00:10:42,on an insane run in the public markets
+00:10:42,120 --> 00:10:44,uh I can very well imagine an
+00:10:44,920 --> 00:10:47,environment where my company slack is
+00:10:47,279 --> 00:10:48,performing in exactly the same way has
+00:10:48,680 --> 00:10:50,the same growth has the same amount of
+00:10:50,279 --> 00:10:52,free cash flow every variable is the
+00:10:52,399 --> 00:10:54,same but we're valued at 1 billion
+00:10:54,360 --> 00:10:57,instead of 2.8 so it could be that we
+00:10:57,720 --> 00:11:00,agree I think bubble is probably um so
+00:11:00,399 --> 00:11:01,you're are you saying your company's
+00:11:01,480 --> 00:11:03,overvalued no I'm saying I could also
+00:11:03,480 --> 00:11:06,Imagine a funding environment where it's
+00:11:06,079 --> 00:11:09,valued at 4 billion it the question of
+00:11:09,279 --> 00:11:13,what it's truly worth I think is um so
+00:11:13,560 --> 00:11:15,how do this is so this is a question I
+00:11:15,680 --> 00:11:16,had a little later but we'll get to this
+00:11:16,760 --> 00:11:19,now how I I've never been able to
+00:11:19,760 --> 00:11:20,understand this and if someone can
+00:11:20,959 --> 00:11:23,explain it to me I would be really
+00:11:23,079 --> 00:11:24,grateful how do people come how do you
+00:11:24,920 --> 00:11:27,come up with the valuation of 2.
+00:11:27,639 --> 00:11:29,billion why not just go straight to 
+00:11:29,360 --> 00:11:31,billion I mean it's like I've had
+00:11:31,560 --> 00:11:33,companies that come in and and I
+00:11:33,000 --> 00:11:34,remember once when I first started
+00:11:34,279 --> 00:11:36,reporting about this stuff um in the
+00:11:36,600 --> 00:11:37,valley itself when I moved out here
+00:11:37,800 --> 00:11:39,about four years ago and there was a
+00:11:39,480 --> 00:11:40,startup that came in and I said so what
+00:11:40,760 --> 00:11:42,are you what what are you guys uh worth
+00:11:42,399 --> 00:11:43,and they looked the founders looked at
+00:11:43,639 --> 00:11:44,each other and and they were like I
+00:11:44,839 --> 00:11:46,don't know I think 20 maybe 30 million I
+00:11:46,760 --> 00:11:47,don't know what do you think and it's
+00:11:47,680 --> 00:11:49,like they debated what they were worth
+00:11:49,160 --> 00:11:50,in front of me and then said 30 million
+00:11:50,920 --> 00:11:53,and it's like where where does it come
+00:11:53,399 --> 00:11:56,from well I mean Julie can give our half
+00:11:56,120 --> 00:11:58,and then yeah I mean I mean Bill's the
+00:11:58,360 --> 00:12:00,money guy here so do you but it's it's
+00:12:00,839 --> 00:12:02,worth what someone's going to pay for it
+00:12:02,480 --> 00:12:04,at this point and that by the way is
+00:12:04,120 --> 00:12:05,true in the public markets as well
+00:12:05,360 --> 00:12:06,there's just a lot more people making
+00:12:06,680 --> 00:12:08,that decision a lot more frequently so
+00:12:08,880 --> 00:12:11,do you do you think that when you look
+00:12:11,639 --> 00:12:13,at the the the companies that are out
+00:12:13,800 --> 00:12:16,there um today I mean I did a when I was
+00:12:16,399 --> 00:12:18,writing this piece for Vanity Fair about
+00:12:18,079 --> 00:12:19,the bubble the one of the funniest
+00:12:19,880 --> 00:12:21,things that I thought happened I
+00:12:21,360 --> 00:12:22,actually was going to bring the
+00:12:22,120 --> 00:12:23,correspondence with the the researcher
+00:12:23,880 --> 00:12:25,from the article but I I'll just tell it
+00:12:25,440 --> 00:12:27,to you um when I filed the piece there
+00:12:27,680 --> 00:12:30,were about 68 unicorns um and when we
+00:12:30,720 --> 00:12:32,were started going back and forth with
+00:12:32,360 --> 00:12:35,the with the um the notes for the
+00:12:35,240 --> 00:12:37,research it had gone up to 75 and then
+00:12:37,600 --> 00:12:38,when we went back again and it went to
+00:12:38,839 --> 00:12:40,another editor it was up to 80 and I was
+00:12:40,959 --> 00:12:43,just backstage you were saying it's 
+00:12:43,079 --> 00:12:45,yeah I heard yesterday 160 so in a
+00:12:45,399 --> 00:12:47,matter of a few months we've literally
+00:12:47,240 --> 00:12:51,gone a hundred more unicorns um what I
+00:12:51,320 --> 00:12:53,don't well I mean look there was always
+00:12:53,880 --> 00:12:56,numbers to justify anything because at
+00:12:56,000 --> 00:12:58,some point bill has everybody has
+00:12:58,959 --> 00:13:00,somebody you answer to I answered to my
+00:13:00,959 --> 00:13:03,shareholders and my employees he answers
+00:13:03,800 --> 00:13:05,to the people that give him money so
+00:13:05,920 --> 00:13:07,everybody has somebody so you have to
+00:13:07,360 --> 00:13:09,have rationale on how you get to those
+00:13:09,920 --> 00:13:12,numbers and it all makes sense at the
+00:13:12,320 --> 00:13:15,time it just may not make sense at the
+00:13:15,519 --> 00:13:18,two years later or even one year later
+00:13:18,320 --> 00:13:21,so you know it's there are real sound
+00:13:21,560 --> 00:13:24,numbers to back up most Investments when
+00:13:24,720 --> 00:13:27,you are a professional investor which is
+00:13:27,079 --> 00:13:29,what how Bill makes his living when it
+00:13:29,040 --> 00:13:31,comes to these um people that want to
+00:13:31,040 --> 00:13:33,get in in a deal they're not setting the
+00:13:33,480 --> 00:13:36,price they're just participating they're
+00:13:36,079 --> 00:13:38,not doing D diligence I mean you know
+00:13:38,639 --> 00:13:39,but isn't that going to affect the
+00:13:39,639 --> 00:13:41,entire Market oh well it will but I mean
+00:13:41,920 --> 00:13:45,let's just assume 160 80 of them are
+00:13:45,000 --> 00:13:47,going to fail I mean Evernote obviously
+00:13:47,480 --> 00:13:49,didn't it couldn't make Revenue a lot of
+00:13:49,399 --> 00:13:51,them are betting that Revenue will be
+00:13:51,040 --> 00:13:53,there there's still audience aggregators
+00:13:53,199 --> 00:13:55,so at some point they have to prove it
+00:13:55,639 --> 00:13:57,you know I my and but you know at some
+00:13:57,959 --> 00:13:59,point they have to prove it it but you
+00:13:59,360 --> 00:14:01,know 80 of them will fail but the 
+00:14:01,079 --> 00:14:03,that make it the world's a different
+00:14:03,639 --> 00:14:06,world than 15 years ago so a bunch of
+00:14:06,240 --> 00:14:08,rapid fire things so one way it's way
+00:14:08,519 --> 00:14:09,different than the last time is it's
+00:14:09,920 --> 00:14:12,much more concentrated we're giving much
+00:14:12,240 --> 00:14:14,larger pools of money to much fewer
+00:14:14,440 --> 00:14:17,companies in the last in 99 a whole
+00:14:17,079 --> 00:14:18,bunch of companies got a little bit of
+00:14:18,639 --> 00:14:20,money and this one it's a whole bunch of
+00:14:20,800 --> 00:14:23,money for 163 is still relatively small
+00:14:23,959 --> 00:14:26,compared to that Stuart's exactly right
+00:14:26,399 --> 00:14:28,the prices are set when willing buyer
+00:14:28,000 --> 00:14:29,meets willing sell
+00:14:29,199 --> 00:14:32,like and and the difference from an IPO
+00:14:32,240 --> 00:14:34,is in this case it's being set by one
+00:14:34,680 --> 00:14:37,buyer probably the highest price bidder
+00:14:37,320 --> 00:14:39,that doesn't work in an IPO because it's
+00:14:39,120 --> 00:14:40,going to start trading publicly and
+00:14:40,839 --> 00:14:42,you're going to get a more balanced
+00:14:42,279 --> 00:14:44,average than you get here so it tends to
+00:14:44,440 --> 00:14:47,Peg them up High um I do think what
+00:14:47,519 --> 00:14:49,you're hinting at is true which is you
+00:14:49,040 --> 00:14:51,have entrepreneurs seeking to get to
+00:14:51,680 --> 00:14:54,that Mark and then you get into all
+00:14:54,360 --> 00:14:56,these nuances about why private
+00:14:56,000 --> 00:14:58,valuations aren't the same as public you
+00:14:58,000 --> 00:14:59,know there's terms terms you know the
+00:14:59,440 --> 00:15:01,protective terms you can get your if an
+00:15:01,959 --> 00:15:03,if an investor comes in an
+00:15:03,040 --> 00:15:05,entrepreneur's dead set on a number they
+00:15:05,120 --> 00:15:07,can build return into other terms and
+00:15:07,320 --> 00:15:09,term up the the term sheet and get to
+00:15:09,120 --> 00:15:11,the valuation and then lastly you know
+00:15:11,560 --> 00:15:13,private valuations don't change the
+00:15:13,680 --> 00:15:15,Press writes about them as if they're
+00:15:15,160 --> 00:15:17,fixed but there's been some press in the
+00:15:17,680 --> 00:15:20,past few days where a a public mutual
+00:15:20,240 --> 00:15:22,fund was forced to write down their
+00:15:22,639 --> 00:15:24,private ones and if you study you know
+00:15:24,440 --> 00:15:26,Finance like these are high beta plays
+00:15:26,600 --> 00:15:28,if the stock market's down 30% you
+00:15:28,680 --> 00:15:30,better believe that the vast majority of
+00:15:30,399 --> 00:15:32,the unicorns are down
+00:15:32,319 --> 00:15:34,40 um talk about the differences though
+00:15:34,759 --> 00:15:36,I think because there are some there are
+00:15:36,240 --> 00:15:39,some differen so um I think the most
+00:15:39,880 --> 00:15:42,important among them for the the biggest
+00:15:42,120 --> 00:15:43,headline numbers the biggest headline
+00:15:43,399 --> 00:15:44,companies is that these are companies
+00:15:44,639 --> 00:15:46,are actually growing Revenue incredibly
+00:15:46,759 --> 00:15:49,quickly so I mean you're on the board of
+00:15:49,120 --> 00:15:51,uber um and several others uh we see it
+00:15:51,920 --> 00:15:53,in our own company there was a lot of
+00:15:53,240 --> 00:15:56,great ideas I think in in 99 2000 that
+00:15:56,040 --> 00:15:58,were maybe 10 years too early because
+00:15:58,199 --> 00:15:59,now
+00:15:59,279 --> 00:16:01,in in 99 2000 it was still two years
+00:16:01,519 --> 00:16:03,before the Netherlands was the very
+00:16:03,720 --> 00:16:05,first country to get more than 50% of
+00:16:05,800 --> 00:16:07,its households connected to the internet
+00:16:07,319 --> 00:16:10,on dialup so you know we're maybe so
+00:16:10,560 --> 00:16:13,orders of magnitude a larger market okay
+00:16:13,600 --> 00:16:15,but but I but so I hear this all the
+00:16:15,160 --> 00:16:17,time right um and you know one of my
+00:16:17,839 --> 00:16:20,favorite lines that I've heard over the
+00:16:20,160 --> 00:16:23,last year was um the question of um uh
+00:16:23,880 --> 00:16:25,quotes about about this era of startups
+00:16:25,759 --> 00:16:27,San Francisco Tech culture is focused on
+00:16:27,279 --> 00:16:29,solving one problem what is mother no
+00:16:29,040 --> 00:16:31,longer doing for me um you have these
+00:16:31,560 --> 00:16:33,food delivery services these laundry
+00:16:33,120 --> 00:16:34,delivery services these it's like
+00:16:34,319 --> 00:16:36,literally like Mom take me to soccer mom
+00:16:36,000 --> 00:16:38,pick me up from go get my groceries mom
+00:16:38,199 --> 00:16:40,like I need my dry cleaning doing those
+00:16:40,000 --> 00:16:41,are all the things that are out there
+00:16:41,199 --> 00:16:44,today there there's two questions to
+00:16:44,279 --> 00:16:47,this well first why do they exist right
+00:16:47,240 --> 00:16:48,I mean is it just for this this this
+00:16:48,880 --> 00:16:50,Tech culture in in in the valley but the
+00:16:50,720 --> 00:16:53,second question is you know if you look
+00:16:53,759 --> 00:16:55,in the United States today eight out of
+00:16:55,639 --> 00:16:58,10 Americans eat at least two meals a
+00:16:58,120 --> 00:16:59,week that are from McDonald's they
+00:16:59,800 --> 00:17:02,cannot afford to use 90% of these
+00:17:02,360 --> 00:17:04,services are we just building these
+00:17:04,120 --> 00:17:06,things because we have money here in
+00:17:06,559 --> 00:17:08,Silicon Valley and in New York and la
+00:17:08,439 --> 00:17:10,and and it's for a certain Market how
+00:17:10,000 --> 00:17:11,how is it going to continue to spread
+00:17:11,959 --> 00:17:13,and help help the rest of the country if
+00:17:13,919 --> 00:17:15,there is a bubble means some investors
+00:17:15,720 --> 00:17:17,will lose money yeah on investments they
+00:17:17,919 --> 00:17:18,make wait did you just say there is a
+00:17:18,799 --> 00:17:20,bubble no if if that's what we mean by
+00:17:20,480 --> 00:17:21,Bubble then sure I mean then the
+00:17:21,640 --> 00:17:23,opposite of a bubble is all investors
+00:17:23,120 --> 00:17:24,will make money on all of their
+00:17:24,400 --> 00:17:27,Investments I mean that would the second
+00:17:27,240 --> 00:17:28,definition seems a lot more like a
+00:17:28,480 --> 00:17:30,bubble people will definitely lose money
+00:17:30,160 --> 00:17:31,the public markets will definitely go
+00:17:31,559 --> 00:17:34,down at some point you know I'm 42 so I
+00:17:34,240 --> 00:17:36,was born in 73 that's stagflation father
+00:17:36,600 --> 00:17:37,was a real estate developer so like
+00:17:37,760 --> 00:17:39,every real estate developer in the world
+00:17:39,000 --> 00:17:40,went bust in 1982 and interest rates
+00:17:40,720 --> 00:17:42,went to 17% I graduated from high school
+00:17:42,720 --> 00:17:45,in 1991 no one got a job and that's the
+00:17:45,480 --> 00:17:47,worst local recession decade on other
+00:17:47,679 --> 00:17:49,side I worked through the dotom crash I
+00:17:49,760 --> 00:17:51,literally me personally held Leman
+00:17:51,880 --> 00:17:53,Brothers over that weekend so I'm very
+00:17:53,679 --> 00:17:55,aware that there's a cycle and there is
+00:17:55,240 --> 00:17:56,a cycle and there will be a correction
+00:17:56,840 --> 00:17:59,we've had an unbelievable able seven
+00:17:59,080 --> 00:18:00,years and speaking of entitlement we've
+00:18:00,600 --> 00:18:01,had you know we have employees who
+00:18:01,840 --> 00:18:05,started their career in 2008 2009 so
+00:18:05,159 --> 00:18:06,they've never known anything but their
+00:18:06,600 --> 00:18:08,career advancing and at the same time
+00:18:08,280 --> 00:18:09,this Market going crazy so they're like
+00:18:09,679 --> 00:18:12,used to 20 or 30% annual raises so
+00:18:12,600 --> 00:18:14,there's all kinds of things that will be
+00:18:14,559 --> 00:18:17,that will be corrected is it built on
+00:18:17,120 --> 00:18:19,nothing like is this like tulips that's
+00:18:19,440 --> 00:18:20,what I I don't agree with I don't I
+00:18:20,720 --> 00:18:22,think that there will be a number of
+00:18:22,600 --> 00:18:24,great companies that survived this far
+00:18:24,840 --> 00:18:27,more than survived 2000 like there was
+00:18:27,400 --> 00:18:30,eBay Yahoo Amazon uh Google but will any
+00:18:30,840 --> 00:18:32,of those companies be the next eBay
+00:18:32,559 --> 00:18:35,Amazon I mean Uber obviously but but oh
+00:18:35,200 --> 00:18:37,sure they will the real real I mean you
+00:18:37,120 --> 00:18:39,know what here's the other thing people
+00:18:39,120 --> 00:18:41,um got a dose of what can happen if you
+00:18:41,480 --> 00:18:43,don't own a market worldwide with the
+00:18:43,360 --> 00:18:46,Som brothers and we're that are copycats
+00:18:46,559 --> 00:18:49,everywhere all right so what when you
+00:18:49,679 --> 00:18:51,look at what Uber is doing they don't
+00:18:51,240 --> 00:18:52,want to be copycatted they're going to
+00:18:52,679 --> 00:18:55,be big worldwide as long as the as long
+00:18:55,600 --> 00:18:58,as their investors reward Topline growth
+00:18:58,000 --> 00:19:00,in fuel the losses and the lawsuits
+00:19:00,720 --> 00:19:02,they're going to be around yeah and and
+00:19:02,880 --> 00:19:03,they're going to be big and they're
+00:19:03,720 --> 00:19:06,going to be worldwide and it'll and you
+00:19:06,000 --> 00:19:08,know and it's going to be a rocky road I
+00:19:08,799 --> 00:19:10,suppose at some point if they ever have
+00:19:10,360 --> 00:19:12,to get their p&l inlined and they run
+00:19:12,200 --> 00:19:13,out of capital but they're going to be
+00:19:13,440 --> 00:19:15,around a there's not that many that you
+00:19:15,960 --> 00:19:18,can point to that say can justify their
+00:19:18,760 --> 00:19:21,valuations but but that doesn't mean
+00:19:21,039 --> 00:19:23,that they have to for five years and in
+00:19:23,320 --> 00:19:26,five years maybe they can hey one real
+00:19:26,240 --> 00:19:28,quick quick thought related to what
+00:19:28,360 --> 00:19:29,Stuart was talking about about there
+00:19:29,480 --> 00:19:31,being real revenues I think it's
+00:19:31,159 --> 00:19:33,important for people to keep in mind
+00:19:33,280 --> 00:19:35,that we've relaxed this constraint of
+00:19:35,240 --> 00:19:38,profitability in such a large way and if
+00:19:38,919 --> 00:19:41,if two sets of of companies are given a
+00:19:41,520 --> 00:19:43,goal of getting to 100 million in
+00:19:43,080 --> 00:19:45,revenues one of them has to do it
+00:19:45,039 --> 00:19:46,profitably the other one can lose 
+00:19:46,720 --> 00:19:49,million the order magnitude of
+00:19:49,240 --> 00:19:50,difficulty between those two things is
+00:19:50,960 --> 00:19:53,probably 10 to one maybe 100 to one and
+00:19:53,679 --> 00:19:56,so that's a it's dangerous just to
+00:19:56,039 --> 00:19:59,assume that revenue is good so so bill
+00:19:59,240 --> 00:20:01,um you in July last year you tweeted
+00:20:01,440 --> 00:20:03,arguing we aren't in a bubble because it
+00:20:03,400 --> 00:20:06,is not as bad as 1999 is is like saying
+00:20:06,039 --> 00:20:08,Kim Jong Yun is fine because he's not as
+00:20:08,039 --> 00:20:10,bad as Hitler would you still still
+00:20:10,640 --> 00:20:13,compare this bubble to Kim Jong or would
+00:20:13,159 --> 00:20:15,you upgrade it to Stalin a
+00:20:15,159 --> 00:20:17,meline maybe downgrade it to Don look a
+00:20:17,960 --> 00:20:19,number of people that were arguing were
+00:20:19,280 --> 00:20:21,aren't in a bubble just simply looked at
+00:20:21,000 --> 00:20:23,a bunch of 99 metrics and said we're not
+00:20:23,240 --> 00:20:25,there but you can have earthquakes of
+00:20:25,159 --> 00:20:28,9.0 or 8.0 or 7.0 they all suck
+00:20:28,720 --> 00:20:31,um and so I just think it's the wrong
+00:20:31,840 --> 00:20:34,wrong argument Twitter is down from $
+00:20:34,679 --> 00:20:36,billion to 17 billion Yelp is down
+00:20:36,880 --> 00:20:40,Groupon's down otes exploding CB Insight
+00:20:40,039 --> 00:20:42,says that uh one notable startup dies
+00:20:42,600 --> 00:20:45,each week uh while it's not 1999 steart
+00:20:45,960 --> 00:20:47,it doesn't seem like its situation
+00:20:47,320 --> 00:20:49,normal to me am I
+00:20:49,679 --> 00:20:53,wrong uh me I guess it this might just
+00:20:53,200 --> 00:20:55,be a semantic argument but companies die
+00:20:55,280 --> 00:20:57,all the time I just tweeted for talking
+00:20:57,120 --> 00:20:59,about people's tweets um a week and a
+00:20:59,400 --> 00:21:00,half ago or something like that the Dow
+00:21:00,960 --> 00:21:04,components in 100 years ago 1915 so like
+00:21:04,200 --> 00:21:07,Central Rubber and US leather and US
+00:21:07,120 --> 00:21:08,sugar refining Co and stuff like that so
+00:21:08,840 --> 00:21:11,there is a cycle um there's also some
+00:21:11,000 --> 00:21:12,bad Investments there's some bad
+00:21:12,120 --> 00:21:13,companies and and bad decisions were
+00:21:13,600 --> 00:21:14,made and I think there's plenty of
+00:21:14,600 --> 00:21:16,companies on that list Twitter I think
+00:21:16,000 --> 00:21:18,is a good example that if you listen to
+00:21:18,400 --> 00:21:20,Dick kind of
+00:21:20,520 --> 00:21:23,plaintively uh cry out to the world and
+00:21:23,440 --> 00:21:25,to and to the company that we went from
+00:21:25,559 --> 00:21:27,seven bucks a share to 15 bucks a share
+00:21:27,600 --> 00:21:29,and then very temporarily spiked to 
+00:21:29,679 --> 00:21:31,bucks a share was that real like you
+00:21:31,200 --> 00:21:32,know when that happened over the course
+00:21:32,400 --> 00:21:33,of 10 days and then it came back down
+00:21:33,880 --> 00:21:36,again yeah you know people will anchor
+00:21:36,760 --> 00:21:37,to the higher price and then they'll
+00:21:37,919 --> 00:21:40,compare oh it was here and now it's here
+00:21:40,240 --> 00:21:41,on the other hand if you look at the
+00:21:41,400 --> 00:21:43,line you know people give Twitter a lot
+00:21:43,200 --> 00:21:45,of excuse me people give Twitter a
+00:21:45,120 --> 00:21:49,lot of uh criticism it's a it's a 15 or
+00:21:49,840 --> 00:21:51,20 billion dollar company that didn't
+00:21:51,279 --> 00:21:53,exist nine years ago so like oh that's
+00:21:53,320 --> 00:21:55,that's a spectacular failure what a
+00:21:55,120 --> 00:21:58,bunch of dopes you know like crazy what
+00:21:58,240 --> 00:22:01,uh two billion in revenue and and on
+00:22:01,360 --> 00:22:02,Pace to double for the next year like
+00:22:02,799 --> 00:22:04,it's just so crazy yes it was
+00:22:04,840 --> 00:22:06,temporarily higher and it went down and
+00:22:06,440 --> 00:22:07,and the same thing will happen in the
+00:22:07,320 --> 00:22:08,public markets and the same thing will
+00:22:08,360 --> 00:22:10,happen lots of companies and like I said
+00:22:10,000 --> 00:22:11,there would be funding environments
+00:22:11,159 --> 00:22:12,where we would be valued less there's
+00:22:12,520 --> 00:22:14,funding environments be we'd be valued
+00:22:14,000 --> 00:22:16,more but the valuation it's there's a
+00:22:16,679 --> 00:22:17,willing buyer but it's a willing buyer
+00:22:17,960 --> 00:22:19,because someone thinks you know there's
+00:22:19,840 --> 00:22:22,decent odds that this could 5x there's
+00:22:22,000 --> 00:22:24,okay odds this could 10x on the outside
+00:22:24,120 --> 00:22:26,maybe this could 100x and so wait so so
+00:22:26,080 --> 00:22:27,you said you you said in an interview
+00:22:27,520 --> 00:22:29,with a colleague mine for heru in April
+00:22:29,400 --> 00:22:31,um I've been in this industry 20 years
+00:22:31,000 --> 00:22:32,this is the best time to raise money
+00:22:32,480 --> 00:22:34,ever it might be the best time of any
+00:22:34,600 --> 00:22:36,kind of business in any industry to
+00:22:36,120 --> 00:22:38,raise money for all of in all of the
+00:22:38,360 --> 00:22:40,history like since the time of the
+00:22:40,000 --> 00:22:42,ancient
+00:22:42,400 --> 00:22:44,Egyptians first of all stand by that
+00:22:44,760 --> 00:22:48,were you around then or uh and do you I
+00:22:48,640 --> 00:22:52,mean you stand by that is it is it oh so
+00:22:52,200 --> 00:22:55,there's uh an element of hyperbole in so
+00:22:55,159 --> 00:22:56,I wasn't around when people were
+00:22:56,760 --> 00:22:58,investing in efforts to develop a
+00:22:58,520 --> 00:23:00,chronometer to you know in the 18th
+00:23:00,640 --> 00:23:02,century and stuff like that certainly in
+00:23:02,840 --> 00:23:04,the course of my career this is the
+00:23:04,200 --> 00:23:06,easiest it's been to raise money I'm in
+00:23:06,240 --> 00:23:08,a very lucky position because we've done
+00:23:08,320 --> 00:23:10,really well um we're we're extremely
+00:23:10,559 --> 00:23:14,high growth and things look Rosy so it's
+00:23:14,000 --> 00:23:16,very easy not just to achieve a specific
+00:23:16,000 --> 00:23:18,valuation or achieve specific terms but
+00:23:18,360 --> 00:23:19,just to wrap the whole thing up I mean
+00:23:19,640 --> 00:23:21,like the fundraising cycle is you you
+00:23:21,600 --> 00:23:24,raising right now again no okay all
+00:23:24,240 --> 00:23:25,right we're going to go to a Q&A so
+00:23:25,720 --> 00:23:27,there's two microphones one on the left
+00:23:27,120 --> 00:23:29,one on the right um and uh please come
+00:23:29,679 --> 00:23:32,on up and ask questions to our wonderful
+00:23:32,039 --> 00:23:34,guests about the bubble or no bubble
+00:23:34,840 --> 00:23:35,bubble I think we're kind of all in
+00:23:35,840 --> 00:23:37,agreement that there is one yeah do we
+00:23:37,440 --> 00:23:39,hide our our money under the mattresses
+00:23:39,120 --> 00:23:40,or like so you went you went to the
+00:23:40,840 --> 00:23:43,bubble side
+00:23:43,120 --> 00:23:45,s uh yeah we'll come back after this all
+00:23:45,679 --> 00:23:49,right hi um so what if it's not a bubble
+00:23:49,200 --> 00:23:50,and it's a
+00:23:50,240 --> 00:23:52,balloon bubbles have to burst balloons
+00:23:52,760 --> 00:23:54,you could let the air out slowly is
+00:23:54,600 --> 00:23:56,there a way that the market can correct
+00:23:56,919 --> 00:24:00,itself without it being being a pop I'll
+00:24:00,320 --> 00:24:01,take a first crack because I think what
+00:24:01,480 --> 00:24:05,Bill said earlier that um risk aversion
+00:24:05,000 --> 00:24:07,um dissipates slowly I said you said the
+00:24:07,440 --> 00:24:09,opposite but um and then comes on really
+00:24:09,679 --> 00:24:12,quick so it's hard to avoid that on the
+00:24:12,080 --> 00:24:14,other hand um when we had the mark and
+00:24:14,320 --> 00:24:16,Jon clip I think one thing I don't know
+00:24:16,080 --> 00:24:18,that you would agree or not a very small
+00:24:18,200 --> 00:24:20,percentage increase on a huge enough
+00:24:20,400 --> 00:24:21,market can count as a bubble so the
+00:24:21,840 --> 00:24:25,housing market in 2008 the market for VC
+00:24:25,480 --> 00:24:27,Investments all of them put together is
+00:24:27,960 --> 00:24:32,2% of the um uh of the US public market
+00:24:32,200 --> 00:24:34,so it's a very tiny and and not even you
+00:24:34,720 --> 00:24:36,know it's basis points of the whole GDP
+00:24:36,880 --> 00:24:38,so it's not really big enough to have an
+00:24:38,480 --> 00:24:40,impact that's Global at I think when you
+00:24:40,679 --> 00:24:43,look at the investors that are investing
+00:24:43,000 --> 00:24:46,later stage that it will create a lot of
+00:24:46,159 --> 00:24:47,disruption in their lives but it's not
+00:24:47,720 --> 00:24:50,going to have the unilateral effect that
+00:24:50,039 --> 00:24:53,the 1999 2000 B bubble I don't I just
+00:24:53,440 --> 00:24:55,don't see it being that what's going to
+00:24:55,799 --> 00:24:57,happen though is at some point people
+00:24:57,760 --> 00:24:59,are going to want people to get to
+00:24:59,480 --> 00:25:01,profitability and the unit economics are
+00:25:01,880 --> 00:25:04,going to be at odds with growing the
+00:25:04,240 --> 00:25:05,revenue and you're going to see
+00:25:05,720 --> 00:25:07,companies struggle and lay off but it's
+00:25:07,600 --> 00:25:09,not going to have the same impact still
+00:25:09,919 --> 00:25:12,um so the amount of money that's gone
+00:25:12,080 --> 00:25:13,into late stage I don't think is
+00:25:13,760 --> 00:25:15,calculated properly because it doesn't
+00:25:15,640 --> 00:25:17,include all the hedge funds there's
+00:25:17,399 --> 00:25:19,money that's come from pools that are
+00:25:19,159 --> 00:25:21,way outside what we've ever seen before
+00:25:21,159 --> 00:25:22,so some people think we've gone from 
+00:25:22,960 --> 00:25:25,20 20 to 30 I think it's probably closer
+00:25:25,360 --> 00:25:27,to 40 or 50 so the numbers get a little
+00:25:27,480 --> 00:25:29,bit bigger but Stuart's right the the
+00:25:29,679 --> 00:25:30,thing that can make it super
+00:25:30,880 --> 00:25:32,catastrophic is when you infect other
+00:25:32,960 --> 00:25:35,Industries so um let's take a look at at
+00:25:35,760 --> 00:25:38,the uh draft King FanDuel thing there's
+00:25:38,360 --> 00:25:40,no way network television revenues are
+00:25:40,799 --> 00:25:42,not being impacted by money losing
+00:25:42,919 --> 00:25:45,Venture dollars there and so you start
+00:25:45,240 --> 00:25:47,to see this infection that's spreading
+00:25:47,880 --> 00:25:49,outside of Silicon Valley that could
+00:25:49,320 --> 00:25:51,make it worse I hope to God we can have
+00:25:51,720 --> 00:25:53,a soft Landing which is why I've been so
+00:25:53,600 --> 00:25:56,outspoken but history would suggest it
+00:25:56,440 --> 00:25:58,doesn't work that way is there any
+00:25:58,360 --> 00:26:00,action specifically that you as VCS can
+00:26:00,640 --> 00:26:02,do to help that happen well but I other
+00:26:02,880 --> 00:26:05,than than than try and talk about it in
+00:26:05,000 --> 00:26:06,a way that's ineffective I'm not sure
+00:26:06,960 --> 00:26:09,well I
+00:26:09,120 --> 00:26:11,think I think that VC should be a little
+00:26:11,600 --> 00:26:14,bit more responsible in my opinion um
+00:26:14,279 --> 00:26:16,about this I mean you know if Mark
+00:26:16,480 --> 00:26:18,andreon wants to say situation normal
+00:26:18,000 --> 00:26:19,there are a lot of people that put money
+00:26:19,200 --> 00:26:21,into into group on Yelp and other
+00:26:21,200 --> 00:26:23,companies that that their retirements
+00:26:23,159 --> 00:26:24,and so on that have been affected by it
+00:26:24,919 --> 00:26:26,yeah and it's it's not just the VCS cuz
+00:26:26,960 --> 00:26:29,it's the mutual funds endowments The
+00:26:29,799 --> 00:26:31,Sovereign wealth funds these are the
+00:26:31,720 --> 00:26:33,these are the big pools of
+00:26:33,559 --> 00:26:35,capital that are setting this marginal
+00:26:35,840 --> 00:26:39,price Tim Ferris hey buddy how are you
+00:26:39,360 --> 00:26:41,I'm doing well nice to see everybody uh
+00:26:41,240 --> 00:26:42,this is a question mostly for Bill I
+00:26:42,520 --> 00:26:43,suppose although anyone's welcome to
+00:26:43,840 --> 00:26:46,chime in of the participants who are
+00:26:46,399 --> 00:26:48,investing in Tech currently who should
+00:26:48,520 --> 00:26:51,keep doing it and who should
+00:26:51,120 --> 00:26:53,stop wow good question what types of
+00:26:53,679 --> 00:26:56,investors well I rather than I don't
+00:26:56,440 --> 00:26:58,know if I could classify I just Julie
+00:26:58,880 --> 00:27:00,had mentioned the notion that people
+00:27:00,360 --> 00:27:02,aren't actually doing the due diligence
+00:27:02,320 --> 00:27:05,I agree with that 110% people aren't
+00:27:05,000 --> 00:27:07,looking at unit economics these these
+00:27:07,399 --> 00:27:09,financials aren't audited it's like
+00:27:09,760 --> 00:27:11,don't do something just because you
+00:27:11,840 --> 00:27:13,think you're getting in you know it's
+00:27:13,159 --> 00:27:14,kind of that madeof thing right where
+00:27:14,600 --> 00:27:16,you think you're getting in on something
+00:27:16,039 --> 00:27:17,because you're invited if you're being
+00:27:17,679 --> 00:27:19,invited right now you're the last call
+00:27:19,799 --> 00:27:23,not the first call all right and and so
+00:27:23,159 --> 00:27:25,have that mindset and I think the more
+00:27:25,279 --> 00:27:27,people that have that prag pragmatism
+00:27:27,640 --> 00:27:30,mindset the better off we are if there
+00:27:30,080 --> 00:27:31,sorry just to add on to that are there
+00:27:31,200 --> 00:27:32,any other characteristics or things that
+00:27:32,880 --> 00:27:35,the best in your mind are doing besides
+00:27:35,600 --> 00:27:37,that due diligence I I got in some
+00:27:37,760 --> 00:27:39,trouble for talking about this but look
+00:27:39,120 --> 00:27:41,as as we get more risk-seeking we take
+00:27:41,640 --> 00:27:43,on business models that are that are
+00:27:43,679 --> 00:27:46,more challenging so the Venture industry
+00:27:46,240 --> 00:27:48,starts doing things with lower and lower
+00:27:48,159 --> 00:27:50,margins lower and lower unit economics
+00:27:50,640 --> 00:27:53,those have to be even better to succeed
+00:27:53,480 --> 00:27:58,you know thank you Ben hey Nick uh so
+00:27:58,279 --> 00:28:00,we're talking a lot about Bubbles and I
+00:28:00,080 --> 00:28:01,think the big thing we were talking
+00:28:01,159 --> 00:28:02,about that is which companies are live
+00:28:02,880 --> 00:28:06,or will live or die so what I want to do
+00:28:06,000 --> 00:28:08,is just ask you all is like list a
+00:28:08,120 --> 00:28:09,couple companies and just raise your
+00:28:09,360 --> 00:28:10,hand if you think it'll still be around
+00:28:10,559 --> 00:28:14,for 10 years would you all be game to
+00:28:14,039 --> 00:28:16,that I'm in all
+00:28:16,960 --> 00:28:19,right you and Nick can do that it's too
+00:28:19,799 --> 00:28:22,late I'm already here do it let's go uh
+00:28:22,880 --> 00:28:24,let's start easy Uber will still be
+00:28:24,880 --> 00:28:26,around 10 years from now yes absolutely
+00:28:26,880 --> 00:28:28,Slack
+00:28:28,840 --> 00:28:31,I don't know sure sure it it may have
+00:28:31,679 --> 00:28:33,been bought by Uber and it could be the
+00:28:33,240 --> 00:28:36,the user I mean these things may more
+00:28:36,720 --> 00:28:39,but all right you have one one more one
+00:28:39,480 --> 00:28:43,more go
+00:28:43,399 --> 00:28:46,Spotify I'll show you yes
+00:28:46,320 --> 00:28:49,sure interesting thank you thanks lift
+00:28:49,039 --> 00:28:50,how about lift what do you guys think
+00:28:50,360 --> 00:28:52,lift no
+00:28:52,039 --> 00:28:54,comment says the board the guy we have
+00:28:54,600 --> 00:28:56,Ron hway here with a question I'm a
+00:28:56,480 --> 00:29:00,little nervous now yeah uh bill you said
+00:29:00,039 --> 00:29:02,that you know lately a lot of sovereign
+00:29:02,840 --> 00:29:05,wealth funds mutual funds hedge funds
+00:29:05,679 --> 00:29:07,have come into the market I think
+00:29:07,799 --> 00:29:11,they'll be the first to stop funding and
+00:29:11,000 --> 00:29:12,they've probably fleed the market
+00:29:12,919 --> 00:29:15,already and we don't realize it do you
+00:29:15,840 --> 00:29:17,think this will cause companies to have
+00:29:17,880 --> 00:29:20,to go back to the old-fashioned IPO
+00:29:20,200 --> 00:29:22,Market yeah and will that be a good
+00:29:22,880 --> 00:29:26,thing um my my quick answer would be yes
+00:29:26,679 --> 00:29:30,and yes um I think there's been a a a
+00:29:30,000 --> 00:29:32,kind of imaginary myth that stay private
+00:29:32,720 --> 00:29:35,longer is a good strategy and when you
+00:29:35,440 --> 00:29:37,you know one of the people that was most
+00:29:37,080 --> 00:29:39,outspoken being antio was the founder of
+00:29:39,799 --> 00:29:41,evernot you can do a Google search
+00:29:41,440 --> 00:29:43,you'll find five articles where he says
+00:29:43,480 --> 00:29:45,oh we don't ever want to be public well
+00:29:45,440 --> 00:29:47,if you want to maintain household
+00:29:47,919 --> 00:29:50,cleaning and and you know 10 varieties
+00:29:50,320 --> 00:29:52,of kind bars then you probably don't
+00:29:52,000 --> 00:29:54,want to be public but that's not how you
+00:29:54,600 --> 00:29:56,build long-term sustainable businesses
+00:29:56,679 --> 00:29:59,so I do think so so what so what H so
+00:29:59,240 --> 00:30:01,going off that question what happens to
+00:30:01,080 --> 00:30:03,these companies that are unicorns that
+00:30:03,320 --> 00:30:05,are not going to go public how does this
+00:30:05,799 --> 00:30:07,end well I think you've already seen a
+00:30:07,519 --> 00:30:09,couple exits I mean I think at one point
+00:30:09,880 --> 00:30:13,Fab had a y valuation over a billion
+00:30:13,519 --> 00:30:15,yeah and then they were sold for 
+00:30:15,600 --> 00:30:18,million to another company so you know
+00:30:18,240 --> 00:30:21,if they can still exist but investors
+00:30:21,360 --> 00:30:23,got you know they got really a big big
+00:30:23,760 --> 00:30:26,wash out if anything so they can if they
+00:30:26,240 --> 00:30:28,if they have a prop position that adds
+00:30:28,519 --> 00:30:31,value they'll find another home but that
+00:30:31,000 --> 00:30:32,doesn't mean people won't lose money all
+00:30:32,519 --> 00:30:34,the way around do you think we'll start
+00:30:34,200 --> 00:30:37,to see some of these 1999 like uh Stuart
+00:30:37,559 --> 00:30:40,um you know where that's you know the
+00:30:40,399 --> 00:30:41,the well it won't be Brian Williams
+00:30:41,880 --> 00:30:42,because he doesn't really do that for a
+00:30:42,880 --> 00:30:45,living anymore but somebody like him who
+00:30:45,120 --> 00:30:47,does uh news for living um will go and
+00:30:47,600 --> 00:30:49,say you know we'll see the video of of
+00:30:49,559 --> 00:30:52,them selling the the the must the pink
+00:30:52,120 --> 00:30:54,mustaches from LT on and you know or
+00:30:54,039 --> 00:30:55,something like that I don't know will we
+00:30:55,559 --> 00:30:57,see will we see that again or is it you
+00:30:57,559 --> 00:30:59,know it'll we'll see what happens and
+00:30:59,760 --> 00:31:03,how how big the change is but uh Uber's
+00:31:03,039 --> 00:31:06,50 billion and has 6,000 employees 5,
+00:31:06,440 --> 00:31:07,employees something like that so there's
+00:31:07,679 --> 00:31:09,not room for
+,000 layoffs like we saw in that clip
+00:31:12,480 --> 00:31:14,from but there are people that work for
+00:31:14,200 --> 00:31:16,Uber this is the this is another oh yes
+00:31:16,480 --> 00:31:17,yes indirectly there are people that
+00:31:17,679 --> 00:31:19,work for I mean I think that's the thing
+00:31:19,039 --> 00:31:20,it's you can play with the numbers and
+00:31:20,679 --> 00:31:22,say well there's only 6,000 people that
+00:31:22,159 --> 00:31:24,work there but there are hundreds of
+00:31:24,000 --> 00:31:25,thousands of people that are relying on
+00:31:25,880 --> 00:31:28,jobs from these companies in the sharing
+00:31:28,200 --> 00:31:30,economy that will be affected if if
+00:31:30,360 --> 00:31:32,something happens and I'm I'm certain
+00:31:32,559 --> 00:31:35,that a higher percentage of employees in
+00:31:35,200 --> 00:31:36,Silicon Valley are working for money
+00:31:36,960 --> 00:31:40,losing companies than anytime since 
+00:31:40,480 --> 00:31:41,I'm certain of that I don't have the
+00:31:41,760 --> 00:31:44,data but I'm certain y we have uh one
+00:31:44,519 --> 00:31:46,other question over here yeah um I found
+00:31:46,480 --> 00:31:49,a unicorn a few years ago about 20 hours
+00:31:49,240 --> 00:31:53,from going public um any
+00:31:53,559 --> 00:31:55,advice what was the first part what was
+00:31:55,519 --> 00:31:58,the uh I found it a un unicorn about 
+00:31:58,000 --> 00:31:59,years ago 20 hours were going public
+00:31:59,919 --> 00:32:02,this is Pure Storage what advice do you
+00:32:02,120 --> 00:32:03,have for what's going to happen in 
+00:32:03,720 --> 00:32:05,hours in 
+00:32:05,919 --> 00:32:08,hours yeah I don't know there' be tough
+00:32:08,399 --> 00:32:11,look I I as as Ron was hinting at I I do
+00:32:11,159 --> 00:32:13,think that that pretending that you
+00:32:13,120 --> 00:32:15,never have to go public or never have to
+00:32:15,159 --> 00:32:17,be scrutinized in that way is is not a
+00:32:17,480 --> 00:32:19,good way to think about the world so and
+00:32:19,519 --> 00:32:21,I also think by the way that it's very
+00:32:21,200 --> 00:32:23,hard for I think companies getting
+00:32:23,240 --> 00:32:25,through that window is is a right of
+00:32:25,159 --> 00:32:27,passage and an accomplishment and so I I
+00:32:27,720 --> 00:32:28,I think it's great that the company's
+00:32:28,960 --> 00:32:31,pushing that way I do think that we're
+00:32:31,000 --> 00:32:33,about to face a wind change where the
+00:32:33,440 --> 00:32:34,public market investors are going to
+00:32:34,840 --> 00:32:36,want more profitability than we've had
+00:32:36,519 --> 00:32:39,in the past well uh thank you so much
+00:32:39,320 --> 00:32:41,everyone um I have to say I'm actually
+00:32:41,760 --> 00:32:44,I'm I'm more fearful now that we're in a
+00:32:44,120 --> 00:32:45,bubble after this conversation so
+00:32:45,320 --> 00:32:46,steuart you did not do a very good job
+00:32:46,840 --> 00:32:48,convincing us otherwise but thank very
+00:32:48,559 --> 00:32:49,much thanks
+00:32:49,240 --> 00:32:54,[Applause]
+00:32:56,039 --> 00:32:59,next
